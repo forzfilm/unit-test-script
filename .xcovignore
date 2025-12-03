@@ -4,7 +4,7 @@
 # Ignore other unwanted files (if any)
 - .*Tests.*\.swift
 - .*Mock.*\.swift
-- .(?<!View)Model\.swift$ << Ignore only Model
+- ^(?!.*ViewModel).*Model.*\.swift
 - .*DTO.*\.swift
 - .*Entity.*\.swift
 - .*Router.*\.swift
