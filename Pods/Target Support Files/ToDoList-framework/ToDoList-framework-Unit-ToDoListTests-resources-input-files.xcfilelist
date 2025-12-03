@@ -1,0 +1,9 @@
+${PODS_ROOT}/Target Support Files/ToDoList-framework/ToDoList-framework-Unit-ToDoListTests-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardCore-framework/IQKeyboardCore.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardManagerSwift-framework/IQKeyboardManagerSwift.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardNotification-framework/IQKeyboardNotification.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/IQTextInputViewNotification-framework/IQTextInputViewNotification.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardReturnManager-framework/IQKeyboardReturnManager.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardToolbarManager-framework/IQKeyboardToolbarManager.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardToolbar-framework/IQKeyboardToolbar.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/IQTextView-framework/IQTextView.bundle

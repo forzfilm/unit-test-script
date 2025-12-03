@@ -1,0 +1,12 @@
+${PODS_ROOT}/Target Support Files/Pods-Example1-Example1UITests/Pods-Example1-Example1UITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/IQKeyboardCore-framework/IQKeyboardCore.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift-framework/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardNotification-framework/IQKeyboardNotification.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardReturnManager-framework/IQKeyboardReturnManager.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardToolbar-framework/IQKeyboardToolbar.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardToolbarManager-framework/IQKeyboardToolbarManager.framework
+${BUILT_PRODUCTS_DIR}/IQTextInputViewNotification-framework/IQTextInputViewNotification.framework
+${BUILT_PRODUCTS_DIR}/IQTextView-framework/IQTextView.framework
+${BUILT_PRODUCTS_DIR}/Networking-framework/Networking.framework
+${BUILT_PRODUCTS_DIR}/RequestAPI-framework/RequestAPI.framework
+${BUILT_PRODUCTS_DIR}/ToDoList-framework/ToDoList.framework

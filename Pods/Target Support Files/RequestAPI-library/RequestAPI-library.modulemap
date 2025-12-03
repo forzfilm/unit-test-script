@@ -1,0 +1,6 @@
+module RequestAPI {
+  umbrella header "RequestAPI-library-umbrella.h"
+
+  export *
+  module * { export * }
+}

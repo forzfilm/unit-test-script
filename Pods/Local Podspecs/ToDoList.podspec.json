@@ -1,0 +1,39 @@
+{
+  "name": "ToDoList",
+  "version": "0.1.0",
+  "summary": "A short description of ToDoList.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/forzfilm/ToDoList",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "forzfilm": "https://github.com/forzfilm"
+  },
+  "source": {
+    "git": "https://github.com/forzfilm/ToDoList.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "16.0"
+  },
+  "source_files": "ToDoList/**/*.{swift,xib}",
+  "resources": "ToDoList/**/*.{json}",
+  "dependencies": {
+    "IQKeyboardCore": [],
+    "IQKeyboardManagerSwift": [],
+    "IQKeyboardNotification": [],
+    "IQKeyboardToolbar": [],
+    "IQKeyboardToolbarManager": [],
+    "IQTextInputViewNotification": [],
+    "IQTextView": []
+  },
+  "testspecs": [
+    {
+      "name": "ToDoListTests",
+      "test_type": "unit",
+      "source_files": "ToDoListTests/*.{swift}"
+    }
+  ]
+}

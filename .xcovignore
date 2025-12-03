@@ -1,0 +1,23 @@
+# Ignore all View files
+- .*View*\.swift
+
+# Ignore other unwanted files (if any)
+- .*Tests.*\.swift
+- .*Mock.*\.swift
+- .(?<!View)Model\.swift$ << Ignore only Model
+- .*DTO.*\.swift
+- .*Entity.*\.swift
+- .*Router.*\.swift
+- .*Cell.*\.swift
+- .*Worker.*\.swift
+- .*ViewController.*\.swift
+- .*Interface.*\.swift
+- .*Label.*\.swift
+- .*Mapper.*\.swift
+- .*Content.*\.swift
+- .*Context.*\.swift
+- .*Localizes.*\.swift
+- .*Configurator.*\.swift
+- .*Popup.*\.swift
+- .*Button.*\.swift
+- .*Enums.*\.swift

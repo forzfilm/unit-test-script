@@ -1,0 +1,6 @@
+framework module RequestAPI {
+  umbrella header "RequestAPI-framework-umbrella.h"
+
+  export *
+  module * { export * }
+}

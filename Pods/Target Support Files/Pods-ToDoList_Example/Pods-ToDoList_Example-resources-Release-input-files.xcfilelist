@@ -1,0 +1,9 @@
+${PODS_ROOT}/Target Support Files/Pods-ToDoList_Example/Pods-ToDoList_Example-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardCore-library/IQKeyboardCore.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardManagerSwift-library/IQKeyboardManagerSwift.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardNotification-library/IQKeyboardNotification.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardReturnManager-library/IQKeyboardReturnManager.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardToolbar-library/IQKeyboardToolbar.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardToolbarManager-library/IQKeyboardToolbarManager.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/IQTextInputViewNotification-library/IQTextInputViewNotification.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/IQTextView-library/IQTextView.bundle

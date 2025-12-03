@@ -1,0 +1,45 @@
+{
+  "configurations" : [
+    {
+      "id" : "943C427D-C96D-49EC-BB7C-40C5C231868D",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "containerPath" : "container:..\/..\/Pods\/Pods.xcodeproj",
+          "identifier" : "4CF1A1FC0820E4A56F959F41DD40D032",
+          "name" : "ToDoList-framework"
+        }
+      ]
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:ToDoList.xcodeproj",
+      "identifier" : "D55BD1202EDF3F6500559688",
+      "name" : "ToDoList_Example"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:..\/..\/Pods\/Pods.xcodeproj",
+        "identifier" : "08CE7D9291BA3A4611B33BB552462CE2",
+        "name" : "ToDoList-library-Unit-ToDoListTests"
+      }
+    },
+    {
+      "enabled" : false,
+      "target" : {
+        "containerPath" : "container:..\/..\/Pods\/Pods.xcodeproj",
+        "identifier" : "6D801D489F3F9E1BF0F0CC6049770DF3",
+        "name" : "ToDoList-framework-Unit-ToDoListTests"
+      }
+    }
+  ],
+  "version" : 1
+}

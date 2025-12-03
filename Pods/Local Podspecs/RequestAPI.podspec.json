@@ -1,0 +1,26 @@
+{
+  "name": "RequestAPI",
+  "version": "0.1.0",
+  "summary": "A short description of RequestAPI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/forzfilm/RequestAPI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "forzfilm": "https://github.com/forzfilm"
+  },
+  "source": {
+    "git": "https://github.com/forzfilm/RequestAPI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "16.0"
+  },
+  "source_files": "RequestAPI/**/*.{swift,xib}",
+  "resources": "RequestAPI/**/*.{json}",
+  "dependencies": {
+    "Networking": []
+  }
+}
